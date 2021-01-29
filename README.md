@@ -13,7 +13,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 - Open the sample scene under `AR Foundation\Scenes\FaceTracking\FaceMesh.unity`.
 - [Set the API key](https://docs.echoar.xyz/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
 - Select `AR Session Origin` from Hierarchy. Double click `FaceMeshPrefab` under `AR Face Manager` in Inspector. Set `Material Size` to 1
-- [Add an image hologram](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) by uploding the *[makeup.png](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/images/makeup.png)* file from the [images](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/images) folder to the console.
+- [Add an image hologram](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) by uploding the *[makeup.png](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/images/makeup.png)* file from the [images](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/tree/main/images) folder to the console.
 - 
   Overwrite the existing *echoAR/CustomBehaviour.cs* script with the new [*CustomBehaviour.cs*](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/CustomBehaviour.cs) file.
 
@@ -21,7 +21,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 Make sure to use an **Alpha transparent texture** as a custom shader. The texture contains of eye shadows, eye liners, hightlight, lipstick or other coloring. When running the app, it detects a face and overlays the face material. 
 
-To create a makeup texture by your own, open the *.psd* file in the [model](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/model) folder. This model is provided by Google [ARCore ArgumentFaces Demo](https://developers.google.com/ar/develop/developer-guides/creating-assets-for-augmented-faces)
+To create a makeup texture by your own, open the *[.psd](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model/canonical_face_texture.psd)* file in the [model](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model) folder. This model is provided by Google [ARCore ArgumentFaces Demo](https://developers.google.com/ar/develop/developer-guides/creating-assets-for-augmented-faces)
 
 <img src="https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/model.png" height=40% width=40%>
 
