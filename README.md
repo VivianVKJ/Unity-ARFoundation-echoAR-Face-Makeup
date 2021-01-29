@@ -15,7 +15,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 - Select `AR Session Origin` from Hierarchy. Double click `FaceMeshPrefab` under `AR Face Manager` in Inspector. Set `Material Size` to 1
 - [Add an image hologram](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) by uploding the *[makeup.png](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/images/makeup.png)* file from the [images](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/images) folder to the console.
 - 
-  Overwrite the existing *echoAR/CustomBehaviour.cs* script with the new [*CustomBehaviour.cs*](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/CustomBehaviour.cs) file.
+  Overwrite the existing *echoAR/CustomBehaviour.cs* script with the new [*CustomBehaviour.cs*](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/CustomBehaviour.cs) file.
 
 ## Create Makeup Texture
 
