@@ -23,7 +23,7 @@ Make sure to use an **Alpha transparent texture** as a custom shader. The textur
 
 To create a makeup texture by your own, open the *.psd* file in the [model](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-demo-Face-Change/tree/main/model) folder. This model is provided by Google [ARCore ArgumentFaces Demo](https://developers.google.com/ar/develop/developer-guides/creating-assets-for-augmented-faces)
 
-![model.png](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/model.png)
+<img src="https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/model.png" height=40% width=40%>
 
 ## Learn more
 
@@ -35,4 +35,4 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 
 ## Screenshot
 
-![demo.gif](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/demo.gif)
+<img src="https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/record.gif" height=30% width=30%>
